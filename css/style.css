@@ -122,7 +122,10 @@ img {
 .product-bio{
     display: flex;
 }
-.cart-item img{
+.img-cart{
+    margin-right: 15px;
+}
+.cart-item {
     align-self: flex-start;
     margin-right: 15px;
 }
